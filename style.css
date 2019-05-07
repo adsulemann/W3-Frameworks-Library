@@ -1,0 +1,39 @@
+
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Gugi', cursive;
+    float: left;
+}
+
+
+.w3-container{
+    height: 70px;
+    
+}
+
+.footer p{
+    color: white;
+    font-family: 'Gugi', cursive;
+    text-align: center;
+} 
+
+
+.w3-container a{
+   
+    padding: 20px;
+   font-size:30px;
+   float: right;
+} 
+
+
+
+
+.footer{
+    
+padding:1px;
+font-size: 14px;
+width:100%;
+}
